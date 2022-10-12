@@ -66,10 +66,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden181&hide_border=true&layout=compact" align="left" />  
 
-<a href="https://instagram.com/khoiviet181" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
 
 <br/>  
 
