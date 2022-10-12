@@ -64,6 +64,8 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aiden181&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>
+  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aiden181&hide_border=true&layout=compact" align="left" />  
 
 
